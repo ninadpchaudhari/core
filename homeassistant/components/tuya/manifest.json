@@ -1,5 +1,6 @@
 {
   "domain": "tuya",
+  "version": "4.19.2025-electric_mattress",
   "name": "Tuya",
   "codeowners": ["@Tuya", "@zlinoliver"],
   "config_flow": true,

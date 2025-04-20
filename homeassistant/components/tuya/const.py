@@ -382,6 +382,11 @@ class DPCode(StrEnum):
     WIRELESS_ELECTRICITY = "wireless_electricity"
     WORK_MODE = "work_mode"  # Working mode
     WORK_POWER = "work_power"
+    LEVEL_1 = "level_1" # Electric Blanket
+    LEVEL_2 = "level_2" # Electric Blanket
+    PREHEAT = "preheat"
+    PREHEAT_1 = "preheat_1"
+    PREHEAT_2 = "preheat_2"
 
 
 @dataclass
